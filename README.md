@@ -65,8 +65,8 @@ The pipeline requires a CSV dataset with:
 
 ## c. GitHub Repository Link
 
-> **[https://github.com/YOUR_USERNAME/ml-assignment-2](https://github.com/YOUR_USERNAME/ml-assignment-2)**  
-> *(Replace with your actual GitHub repository URL before submission)*
+> **[https://github.com/puneethk28/bits_ml_assignment_2](https://github.com/puneethk28/bits_ml_assignment_2)**  
+
 
 Repository structure:
 ```
@@ -150,5 +150,5 @@ Open [http://localhost:8501](http://localhost:8501) and upload `test_data.csv` f
 
 ## Live App
 
-> **[https://APP.streamlit.app](https://APP.streamlit.app)**  
+> **[https://bitsmlassignment2-8y5drpugjagxgf6vv6gu9u.streamlit.app/](https://bitsmlassignment2-8y5drpugjagxgf6vv6gu9u.streamlit.app/)**  
 
