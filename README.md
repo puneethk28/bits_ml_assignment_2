@@ -1,8 +1,4 @@
 # ML Assignment 2 – Classification Models with Streamlit
-
-**Course:** Machine Learning · M.Tech (AIML/DSE) · BITS Pilani WILP  
-**Submission Deadline:** 18-Aug-2026
-
 ---
 
 ## a. Problem Statement
